@@ -7,7 +7,7 @@ The program will be used through mouse commands to navigate the menu and setting
 
 There are two bikes that run in any direction, depending on the arrows the user clicks. Each bike creates a trail running after it, and if another bike hits any trail, the bike dies and the other user wins. The trail can belong to anyone.
   
-###Classes: 
+##Classes: 
 
 - Bike - class to create a bike and will have its own trail.
 
@@ -27,7 +27,7 @@ There are two bikes that run in any direction, depending on the arrows the user 
 
 - Move - Moves bike and trail
 	
-###Responsibility List: 
+##Responsibility List: 
 
 - Akshat: Grid, CoordinateSystem, Controls, Bike, Trail
 
